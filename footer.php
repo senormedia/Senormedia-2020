@@ -73,5 +73,4 @@
 </div><?php /* End animsition*/ ?>
 
 <!-- Global site tag (gtag.js) - Google Analytics -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=UA-31669630-2"></script>
 </body></html>
