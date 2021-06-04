@@ -5,11 +5,9 @@
     <meta charset="<?php bloginfo( 'charset' ); ?>" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta http-equiv="content-type" content="text/html; charset=utf-8" />
-		<meta name="viewport" content="width=device-width, initial-scale=1.0">
-		<link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="pingback" href="<?php bloginfo( 'pingback_url' ); ?>" />
     <link href="https://fonts.googleapis.com/css?family=Open+Sans:400,700|Source+Sans+Pro:400,700,900&display=swap" rel="stylesheet">
-
-    <meta name="google-site-verification" content="5XHJ7y72SUDaT9BynqrmkECqU36W6sQmMw5rCUbTP5o" />
 
     <?php wp_head(); ?>
 	</head>
